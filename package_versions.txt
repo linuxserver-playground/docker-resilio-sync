@@ -6,7 +6,7 @@ base-files                   13ubuntu10.5                       deb
 base-passwd                  3.6.3build1                        deb   
 bash                         5.2.21-2ubuntu4                    deb   
 bsdutils                     1:2.39.3-9ubuntu6.6                deb   
-ca-certificates              20260816ubuntu0.24.04.1            deb   
+ca-certificates              20260816ubuntu0.24.04.2            deb   
 catatonit                    0.1.7-1                            deb   
 coreutils                    9.4-3ubuntu6.3                     deb   
 cron                         3.0pl1-184ubuntu2                  deb   
@@ -125,7 +125,7 @@ ncurses-bin                  6.4+20240113-1ubuntu2.2            deb
 netcat-openbsd               1.226-1ubuntu2                     deb   
 openssl                      3.0.13-0ubuntu3.16                 deb   
 passwd                       1:4.13+dfsg1-4ubuntu3.2            deb   
-perl-base                    5.38.2-3.2ubuntu0.6                deb   
+perl-base                    5.38.2-3.2ubuntu0.7                deb   
 pinentry-curses              1.2.1-3ubuntu5                     deb   
 procps                       2:4.0.4-4ubuntu3.3                 deb   
 publicsuffix                 20231001.0357-0.1                  deb   
